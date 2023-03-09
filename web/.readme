@@ -1,0 +1,19 @@
+## Para rodar o vite.js
+
+## npm run dev
+
+## Após criar o Vite rodar o comando abaixo.
+
+## npm install
+
+## Para instalar o tailwhind usar o comando
+
+## npm install -D tailwindcss postcss autoprefixer
+
+## Comando para criar a config tailwhind.
+
+## npx tailwindcss init -p
+
+## instalar as seguintes extensões
+
+## postcss e tailwind

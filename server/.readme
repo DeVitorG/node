@@ -1,0 +1,40 @@
+## Para iniciar o projeto e criar as dependencias necessárias.
+
+## npm init -y
+
+## Irá criar a configuração do typescript no projeto.
+
+## npx tsc --init
+
+## Caso a configuração do typescript não seja criado desinstale o typescript(caso tenha) e instale novamente.
+
+## npm uninstall typescript e em seguida npm install -g typescript
+
+## Instalar uma dependência(TSX) para executar um arquivo de node com typescript sem conversão
+
+## npm i tsx --D
+
+## npx tsx src/server.ts
+
+## npm run dev serve para rodar o script criado no package.json
+
+## Instalar um banco SQLite(Prisma)
+
+## npx prisma init --datasource-provider sqlite 
+
+## Para rodar a criação da migrate será o seguinte comando.
+
+## npx prisma migrate dev
+
+## Caso eu queira ver como está o banco rodar
+
+## npx prisma studio
+
+## Config frontend consuma api
+
+## npm i @fastify/cors
+
+## Para criar o arquivo Vite usar o seguinte comando.
+
+## npm create vite@latest
+
