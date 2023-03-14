@@ -1,3 +1,7 @@
 ## Para iniciar o projeto rodar o seguinte comando
 
 ## npx expo install (nome do projeto) --template
+
+## Para instalar a fonte
+
+## npx expo install expo-font @expo-google-fonts/inter
